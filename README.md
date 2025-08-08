@@ -21,9 +21,8 @@ Pre-requisites
 - Lists
 - App architecture
 
-Getting Started
+FINAL RESULT
 ---------------
 
-1. Download the project
-2. Open the project in Android Studio
-3. Run the project
+https://github.com/user-attachments/assets/91aa7b1c-12ea-4c1f-b033-0e2e2c428a53
+
